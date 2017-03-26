@@ -23,11 +23,5 @@ Passprase: udacity
 user: grader
 SSH Key attached: udacity file
 
-Here I have a problem which I don't understand why I cannot pass through it:
-
-I can run python __init__.py and the project will run on port 8080
-I know that requirements is only for 80 but is say Already in use.
-
-I follow a tuturial to deploy Flask Application from Digital ocean but not succeed.
 
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
